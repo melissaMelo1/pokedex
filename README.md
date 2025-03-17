@@ -36,15 +36,25 @@ A Pokedex é uma aplicação web que permite aos usuários visualizar, buscar e 
 
 
 src/
+
 ├── api/           # Configuração e funções de acesso à API
+
 ├── components/    # Componentes reutilizáveis 
+
 ├── config/        # Constantes e configurações 
+
 ├── context/       # Contextos para gerenciamento de estado
+
 ├── hooks/         # Hooks personalizados
+
 ├── models/        # Classes e interfaces
+
 ├── pages/         # Componentes de página
+
 ├── routes/        # Configuração de rotas
+
 ├── services/      # Serviços de integração
+
 └── utils/         # Funções utilitárias
 
 
